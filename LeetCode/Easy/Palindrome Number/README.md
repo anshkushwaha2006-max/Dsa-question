@@ -9,7 +9,7 @@
 | **Tags** | Math |
 | **Link** | [View Problem](https://leetcode.com/problems/palindrome-number/) |
 | **Runtime** | 0 ms |
-| **Memory** | 7.9 MB |
+| **Memory** | 10.8 MB |
 
 ## Problem Description
 
