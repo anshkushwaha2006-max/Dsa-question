@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | cpp |
-| **Solved On** | September 8, 2026 |
+| **Solved On** | September 9, 2026 |
 | **Tags** | Math |
 | **Link** | [View Problem](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) |
 | **Runtime** | 0 ms |
-| **Memory** | 7.8 MB |
+| **Memory** | 7.9 MB |
 
 ## Problem Description
 
