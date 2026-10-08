@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Sqrt(x)](./LeetCode/Easy/Sqrtx) - *Easy*
 - [Peak Index in a Mountain Array](./LeetCode/Medium/Peak%20Index%20in%20a%20Mountain%20Array) - *Medium*
 - [Power of Two](./LeetCode/Easy/Power%20of%20Two) - *Easy*
 - [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) - *Medium*
