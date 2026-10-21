@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Rotate Array](./LeetCode/Medium/Rotate%20Array) - *Medium*
 - [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) - *Easy*
 - [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) - *Easy*
 - [Sqrt(x)](./LeetCode/Easy/Sqrtx) - *Easy*
