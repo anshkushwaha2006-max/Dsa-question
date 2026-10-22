@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Sum of Squares of Special Elements](./LeetCode/Easy/Sum%20of%20Squares%20of%20Special%20Elements) - *Easy*
 - [Rotate Array](./LeetCode/Medium/Rotate%20Array) - *Medium*
 - [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) - *Easy*
 - [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) - *Easy*
